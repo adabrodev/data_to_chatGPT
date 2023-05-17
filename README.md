@@ -1,6 +1,8 @@
 # Introduction 
 This code implements the functionality of Data to LLM (Large Language Models) using ChatGPT, which is being explored as part of a data analytics platform for a vocal school. The purpose of Data to ChatGPT is to accelerate the initial level of data interpretation through analysis using a large language model (LLM) like ChatGPT.
 
+You can find the dashboard, which is fed with the results of this code, here : https://lookerstudio.google.com/s/r3zE0r4iICg
+
 # The code performs the following tasks:
 
 1. Technical settings: It imports libraries and creates the main table in BigQuery to store ChatGPT responses.
