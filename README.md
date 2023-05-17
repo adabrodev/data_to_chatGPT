@@ -3,6 +3,8 @@ This code implements the functionality of Data to LLM (Large Language Models) us
 
 You can find the dashboard, which is fed with the results of this code, here : https://lookerstudio.google.com/s/r3zE0r4iICg
 
+You can access the article related to this code at the following link: https://medium.com/@aleksander.dabrowski/harnessing-chatgpt-for-data-analysis-my-first-tests-9356850660dc
+
 # The code performs the following tasks:
 
 1. Technical settings: It imports libraries and creates the main table in BigQuery to store ChatGPT responses.
