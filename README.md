@@ -5,9 +5,9 @@ This code implements the functionality of Data to LLM (Large Language Models) us
 
 1. Technical settings: It imports libraries and creates the main table in BigQuery to store ChatGPT responses.
 2. Business settings: It defines roles and main business guidelines for the ChatGPT prompt.
-3. - 4. Organization settings: It defines roles and main business guidelines for the ChatGPT prompt.
-5. Extracting data for analysis from the BigQuery database.
-6. - 8. Three analyses to be conducted by ChatGPT, including prompt creation, interaction with the ChatGPT API, and storing the response in BigQuery.  
+3. Organization settings: It defines roles and main business guidelines for the ChatGPT prompt.
+4. Extracting data for analysis from the BigQuery database.
+5. Three analyses to be conducted by ChatGPT, including prompt creation, interaction with the ChatGPT API, and storing the response in BigQuery.  
 
 # Some definitions Used in the Code
 - PI_description: Performance indicator description, which refers to a very short description of columns.
